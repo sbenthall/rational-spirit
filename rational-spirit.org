@@ -1,0 +1,93 @@
+#+TITLE: Rational Spirit - draft
+
+
+
+
+
+
+
+
+* Principles of Rationality
+
+It evolves.
+
+** Logic
+
+*** Early logic
+
+*** Trancendental logic
+
+*** Formal logic
+
+Lakatos
+
+** Probability
+
+*** Bayes' rule
+
+*** Frequentism and Subjectivism
+
+*** Statistics
+
+** Computation
+
+*** Algorithms
+
+
+* Mind, Consciousness and Subconsciousness
+
+** Mind
+
+** Consciousness
+
+** Subconsciousness
+
+
+* Ego and Self
+
+** Anthropics 
+
+** Integration
+
+*** Jungian myth cycle
+
+
+* Karma
+
+* God
+
+* Intro
+
+This working document aims to outline a rational basis for spirituality.
+
+By `rational', I mean consistent with the best known principles
+of rational inquiry.
+"Rationality" has meant different things in different eras, as part
+of what rationality is is a process for refining concepts, and this
+process has been turned in upon itself.
+I will argue that these processes have today been mathematized 
+in formal logic, statistics, and theory of computation.
+These principles are now constitutive of the 'rational world view'
+in contemporary times.
+
+By `spirituality', I mean something less certain.
+Defining what spirituality can mean to the rational world view
+is the project of this document.
+I choose this word because it resonates with ideas that are familiar
+from religion and spirituality.
+Spirit is an aspect of a person or sentient being that is distinct
+from and/or more permanent than their body.
+Spirit is a force in the world that can be detected emotionally
+or even perceptively even though its role in physical mechanisms
+is hard if not impossible to track.
+Spirituality is a basis for moral obligations that we have towards
+each other, and other values which can guide a mortal life to
+fulfillment.
+
+Rationality and spirituality have in recent years been more often
+than not considered to be opposed to each other.
+This document aims to show how that opposition is false.
+Rationality is consistent with spirituality.
+In particular, a certain interpretation of key principles
+of rationality entails spirituality quite logically.
+This document is an exploration of these logical arguments.
