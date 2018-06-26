@@ -1,5 +1,7 @@
 #+TITLE: Rational Spirit
 
+/This book is under development./
+
 We live in confusing times.
 
 You may be wondering: 
@@ -29,11 +31,19 @@ The normal stuff.
 
 It's ideal. Everything is in "the mind".
 
+** Why is there something instead of nothing?
+
+There's both something and /also/ nothing.
+
+But you are in the something part.
+
 * How can I know anything?
 
 Bayesian updating and mathematical proof.
 
 Also, social trust in expertise.
+
+# See cite:peirce1877fixation
 
 * What is consciousness?
 
@@ -58,6 +68,16 @@ Yes.
 
 Yeah, I mean, why not?
 
+** Why is there evil in the world if God is good?
+
+Because of bad karma.
+
 * What is the most just form of human government?
 
 TBD.
+
+
+
+# * Bibliography
+#
+# bibliography:rs.bib
