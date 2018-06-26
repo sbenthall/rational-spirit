@@ -2,6 +2,8 @@
 
 /This book is under development./
 
+* Introduction
+
 We live in confusing times.
 
 You may be wondering: 
@@ -13,9 +15,9 @@ Is there a God?
 What is the most just form of human government?
 
 This book has answers to all these questions,
-and provides an argument for those answers.
+and provides some reasons for those answers.
 
-* Who are you to write this book?
+** Who are you to write this book?
 
 I am somebody who has studied philosophy, science, 
 and religion quite seriously for a lot of their life. 
@@ -31,19 +33,21 @@ The normal stuff.
 
 It's ideal. Everything is in "the mind".
 
+*** If a tree falls in a forest, and nobody is there to hear it, does it make as sound?
+
+Yes.
+
 ** Why is there something instead of nothing?
 
 There's both something and /also/ nothing.
 
-But you are in the something part.
+But you are in the something part. Anthropics.
 
 * How can I know anything?
 
 Bayesian updating and mathematical proof.
 
-Also, social trust in expertise.
-
-# See cite:peirce1877fixation
+Also, social trust in expertise. (Peirce, 1877)
 
 * What is consciousness?
 
@@ -77,7 +81,12 @@ Because of bad karma.
 TBD.
 
 
+* Other questions
 
-# * Bibliography
-#
-# bibliography:rs.bib
+** Will artificial intelligence cause an existential risk to humanity?
+
+Probably not.
+
+* Bibliography
+
+Peirce, Charles Sanders. "The fixation of belief." 1877.
