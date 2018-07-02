@@ -17,6 +17,20 @@ What is the most just form of human government?
 This book has answers to all these questions,
 and provides some reasons for those answers.
 
+** Is this book religious?
+
+Maybe.
+
+This book is intended to be consistent with the foundations
+of mainstream secular scientific education.
+
+However, it draws conclusions from those foundations that
+are more associated with religion than science.
+
+It does not depend logically on any particular religious authority.
+However, where a word from a religious tradition seems appropriate
+for a concept in this book, I use it.
+
 ** Who are you to write this book?
 
 I am somebody who has studied philosophy, science, 
@@ -25,13 +39,23 @@ and religion quite seriously for a lot of their life.
 I have come to some interesting conclusions that 
 I would like to share with you.
 
+* How can I know anything?
+
+This is a good question to start with.
+The best advice is to work with what you've got.
+You already have some practical understanding of how to come to know things.
+Don't lose it!
+
+Bayesian updating and mathematical proof.
+
+Also, social trust in expertise. (Peirce, 1877)
+
 * What is real?
 
-The normal stuff.
-
-** Is it material or ideal?
-
-It's ideal. Everything is in "the mind".
+Most of what you experience every day is real.
+I am not writing to tell you that your world is illusory.
+Whatever you are sitting on is real.
+The device you are using to read this book is real.
 
 *** If a tree falls in a forest, and nobody is there to hear it, does it make as sound?
 
@@ -41,13 +65,7 @@ Yes.
 
 There's both something and /also/ nothing.
 
-But you are in the something part. Anthropics.
-
-* How can I know anything?
-
-Bayesian updating and mathematical proof.
-
-Also, social trust in expertise. (Peirce, 1877)
+But you are in the something part.
 
 * What is consciousness?
 
@@ -88,5 +106,7 @@ TBD.
 Probably not.
 
 * Bibliography
+
+Kant, Immanuel. "Critique of pure reason. 1781." Modern Classical Philosophers, Cambridge, MA: Houghton Mifflin (1908): 370-456.
 
 Peirce, Charles Sanders. "The fixation of belief." 1877.
