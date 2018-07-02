@@ -105,6 +105,27 @@ TBD.
 
 Probably not.
 
+
+* Probability
+
+Have you ever thought hard about what a probability distribution is?
+
+A probability distribution is the assignment of a numerical value to
+each element of a set of events. These numbers, the probabiliteis, sum to
+one.
+
+Our interpretation of these numbers depends on our point of view.
+
+One interpretation of probability, called /frequentism/, states that
+the probability of an event is the real ratio of that event's occurance
+among all of its chances to occur in the universe. In other words,
+the probability of a coin coming up heads is one half because half of
+the tossed coins in the universe come up heads.
+
+Another interpreation, called /subejectivism/, states that the probability
+of an event is the odds that a rational observer would put on that event
+if they had to bet on it.
+
 * Bibliography
 
 Kant, Immanuel. "Critique of pure reason. 1781." Modern Classical Philosophers, Cambridge, MA: Houghton Mifflin (1908): 370-456.
